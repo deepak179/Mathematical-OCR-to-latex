@@ -12,7 +12,6 @@ An end-to-end deep learning project that fine-tunes a powerful vision-language m
 ## Demo
 
 ![Screenshot of the Streamlit App in action](https://i.imgur.com/your-screenshot-url.png)
-*(Replace the URL above with a screenshot of your running `app.py`)*
 
 ---
 
