@@ -149,4 +149,4 @@ Contributions are welcome! If you have suggestions for improvements or want to a
 
 ## 📄 License
 
-This project is distributed under the MIT License. See the `LICENSE` file for more information.
+This project is distributed under the Apache License. See the `LICENSE` file for more information.
