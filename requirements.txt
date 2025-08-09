@@ -1,0 +1,17 @@
+--no-deps
+unsloth[kaggle-new] @ git+https://github.com/unslothai/unsloth.git
+bitsandbytes
+accelerate
+xformers==0.0.29.post3
+peft
+trl
+triton
+unsloth_zoo
+sentencepiece
+protobuf
+datasets
+huggingface_hub
+hf_transfer
+jiwer
+streamlit
+Pillow
